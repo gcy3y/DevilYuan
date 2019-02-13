@@ -1,0 +1,9 @@
+qdarkstyle
+pytesseract
+pymongo
+pywinauto
+pytdx
+pyqrcode
+aiohttp
+pypng
+PyQt5
