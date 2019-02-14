@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+pip install https://github.com/matplotlib/mpl_finance/archive/master.zip
+pip install TA_Lib-0.4.17-cp37-cp37m-win_amd64.whl
